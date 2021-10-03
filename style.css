@@ -1,3 +1,26 @@
+#email {
+  color: rgb(80, 93, 107);
+}
+
+#Hi {
+   color: black; 
+}
+
+#certificates {
+  text-align: center;
+}
+
+#photo {
+  border-radius: 4%;
+}
+
+#bears {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 5%;
+}
+
 .btn {
   display: block;
   padding: 15px 30px;
@@ -12,31 +35,20 @@
   padding: 1.5rem;
 }
 
-#Hi {
-   color: black; 
-}
-
 .projects-page {
    background: #f5f3ef;
     text-align: center; 
 }
 
-#bears {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  border-radius: 5%;
+.hero {
+    background: #decbc2;
+    text-align: center;
 }
 
 h1 {
     display: block;
     padding: 10px 10px;
     font-family: 'Dancing Script', cursive;
-}
-
-.hero {
-    background: #decbc2;
-    text-align: center;
 }
 
 body {
